@@ -1,0 +1,6 @@
+**/.vscode/*.db
+**/.vscode/*.db-*
+**/.vscode/ipch/
+build/
+install/
+log/
